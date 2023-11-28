@@ -4,5 +4,7 @@ In this work, a differential evolution variant (DE-CaR+S)  was developed. DE-CaR
 
 Paper: Molina-Pérez, D., Mezura-Montes, E., Portilla-Flores, E. A., Vega-Alvarado, E., & Calva-Yañez, B. (2023). A differential evolution algorithm for solving mixed-integer nonlinear programming problems. Swarm and Evolutionary Computation, 101427.
 
-https://github.com/dani90molinaperez/DE_CaR_S/assets/99913325/35fdf324-3ad9-4597-876a-376dc50f5efb
+![ezgif com-video-to-gif](https://github.com/dani90molinaperez/DE_CaR_S/assets/99913325/5241ac7b-63a9-4f4b-bef6-c4b735f7173c)
+
+
 
