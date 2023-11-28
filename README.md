@@ -1,10 +1,10 @@
 # DE-CaR+S
 
-In this work, a differential evolution variant (DE-CaR+S)  was developed. DE-CaR+S has two  fundamental  strategies:  The  first  one   takes into account  a set of “good fitness-infeasible solutions” defined as surviving solutions, that contribute to the exploration of promising regions from infeasible  contours. Thus, it  reduces  the vulnerability  of  the   population  to  be  attracted  to  the  larger  discontinuous feasible parts with unpromising objective  function  values.  The second strategy is a composite  trial  vector  generation  aimed  at  improving the combinatorial exploration of the discrete variables. 
+In this work, we introduce a novel differential evolution algorithm variant, DE-CaR+S [1]. DE-CaR+S leverages the Cutting and Repulsion strategies initially proposed in [2] and integrates two essential strategies: Firstly, it  considers  a set of “good fitness-infeasible solutions” defined as surviving solutions that contribute to exploring promising regions from infeasible  contours. Thus, it  reduces  the population's vulnerability  to  be  attracted  to  the  larger  discontinuous feasible parts with unpromising objective  function  values.  Secondly, a composite  trial  vector  generation  to improve the combinatorial exploration of the discrete variables. 
 
-Paper: Molina-Pérez, D., Mezura-Montes, E., Portilla-Flores, E. A., Vega-Alvarado, E., & Calva-Yañez, B. (2023). A differential evolution algorithm for solving mixed-integer nonlinear programming problems. Swarm and Evolutionary Computation, 101427.
+[1] Molina-Pérez, D., Mezura-Montes, E., Portilla-Flores, E. A., Vega-Alvarado, E., & Calva-Yañez, B. (2023). A differential evolution algorithm for solving mixed-integer nonlinear programming problems. Swarm and Evolutionary Computation, 101427.
 
-
+[2] Liu, J., Wang, Y., Huang, P. Q., & Jiang, S. (2021). Car: A cutting and repulsion-based evolutionary framework for mixed-integer programming problems. IEEE Transactions on Cybernetics, 52(12), 13129-13141.
 
 # Optimization Problem
 
